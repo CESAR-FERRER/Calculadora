@@ -36,8 +36,9 @@ padding: 0;
 }
 
 #resultado{
-    background-color: white;
-    width: 213px;   
+    background-color: rgb(255, 255, 255);
+    width: 213px;
+    height: 25px;   
     margin: 5px;
     font-size: 25px;
     color: black;
